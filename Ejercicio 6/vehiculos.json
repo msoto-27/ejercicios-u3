@@ -1,0 +1,28 @@
+{
+    "__class__": "Lista",
+    "datos": [
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "gold",
+                "puertas": 4,
+                "color": "blanco",
+                "pb": 150000.0,
+                "marca": "volkswagen",
+                "patente": "abc123",
+                "anio": 2010,
+                "km": 150000
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo": "hilux",
+                "puertas": 2,
+                "color": "rojo",
+                "pb": 1000000.0,
+                "version": "full"
+            }
+        }
+    ]
+}
