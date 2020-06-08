@@ -1,0 +1,75 @@
+{
+    "__class__": "Lista",
+    "datos": [
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "268",
+                "nombre": "Pedro",
+                "apellido": "Gomez",
+                "basico": 25000.0,
+                "antiguedad": 1,
+                "area": "Bioinformatica",
+                "tipo": "B"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "147",
+                "nombre": "Maria",
+                "apellido": "Rodriguez",
+                "basico": 35000.0,
+                "antiguedad": 20,
+                "carrera": "Biologia",
+                "cargo": "exclusivo",
+                "catedra": "Ciencias Biologicas",
+                "area": "Microbiologia",
+                "tipo": "B",
+                "categoria": "II",
+                "extra": 10000.0
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "123",
+                "nombre": "Juan",
+                "apellido": "Perez",
+                "basico": 30000.0,
+                "antiguedad": 4,
+                "carrera": "LCC",
+                "cargo": "simple",
+                "catedra": "Algoritmos"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "456",
+                "nombre": "Marcos",
+                "apellido": "Diaz",
+                "basico": 30000.0,
+                "antiguedad": 7,
+                "carrera": "Biologia",
+                "cargo": "semi-exclusivo",
+                "catedra": "Informatica",
+                "area": "Bioinformatica",
+                "tipo": "A",
+                "categoria": "II",
+                "extra": 10000.0
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cuil": "789",
+                "nombre": "Hector",
+                "apellido": "Lopez",
+                "basico": 30000.0,
+                "antiguedad": 3,
+                "categoria": 5
+            }
+        }
+    ]
+}
